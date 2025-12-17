@@ -1,0 +1,46 @@
+{
+  "name": "sharpapi/php-resume-job-match-score",
+  "description": "Resume/CV & Job Description Compatibility Scoring API for PHP powered by SharpAPI.com",
+  "type": "library",
+  "keywords": [
+    "sharpapi",
+    "resume matching",
+    "cv",
+    "job description",
+    "php",
+    "ai api",
+    "ats",
+    "hr tech",
+    "natural language processing",
+    "job score",
+    "compatibility scoring"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sharpapi/php-resume-job-match-score",
+  "authors": [
+    {
+      "name": "Dawid Makowski",
+      "email": "contact@sharpapi.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "ext-json": "*",
+    "guzzlehttp/guzzle": "^7.8.2",
+    "sharpapi/php-core": "^1.0.2",
+    "spatie/url": "^2.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "SharpAPI\\ResumeMatchScore\\": "src/"
+    }
+  },
+  "scripts": {
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
