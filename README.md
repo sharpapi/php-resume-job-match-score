@@ -29,6 +29,12 @@ composer require sharpapi/php-resume-job-match-score
 
 ---
 
+## Laravel Integration
+
+Building a Laravel application? Check the Laravel package version: https://github.com/sharpapi/laravel-resume-job-match-score
+
+---
+
 ## What it does
 
 This package sends a resume file and a job description to the SharpAPI AI endpoint and returns a structured JSON scoring output based on 20+ compatibility factors:
