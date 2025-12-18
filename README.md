@@ -1,6 +1,6 @@
 ![SharpAPI GitHub cover](https://sharpapi.com/sharpapi-github-laravel-bg.jpg "SharpAPI PHP Client")
 
-# PHP Resume/CV & Job Description Compatibility Scoring
+# PHP Resume/CV and Job Description Match Score
 
 ## 🎯 Instantly evaluate how well a candidate's resume aligns with your job descriptions — powered by SharpAPI AI.
 
