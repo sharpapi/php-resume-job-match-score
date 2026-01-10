@@ -11,6 +11,17 @@ Check the full documentation on the [Resume/CV Job Match Scoring API](https://sh
 
 ---
 
+## Quick Links
+
+| Resource | Link |
+|----------|------|
+| **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsaF) |
+| **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/hr-tech/resume-cv-job-match-score) |
+| **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
+
+---
+
 ## Requirements
 
 - PHP >= 8.0
